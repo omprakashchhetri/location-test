@@ -10,6 +10,7 @@ Then change into your new `my-app` directory and start a development server (ava
 
     cd my-app
     npm start
+    or npm dev -- --host
 
 To generate a build ready for production:
 
